@@ -1,0 +1,57 @@
+
+body{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(EPaGzB1p38RYk.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.container{
+  background-image: url(pic.png);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 45vw;
+	height: 700px;
+	margin: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+
+	overflow: hidden;
+}
+p{
+    margin-top: 4%;
+
+  font-size: 23px;
+  margin-left: 33%;
+  font-family: 'Roboto', sans-serif;
+
+}
+#img1{
+
+  margin-top: 18%;
+}
+img{
+  margin-left: 34%;
+
+}
+#img2{
+  margin-left: 36%;
+ width: auto;
+}
+#icon{
+  width: 39px;
+  height: 39px;
+
+  float: right;
+}
+#curs{
+  display: block;
+  width: 39px;
+  height: 39px;
+
+  float: right;
+}
+#msg{
+  margin-left: -4%;
+ width: auto;
+
+}
